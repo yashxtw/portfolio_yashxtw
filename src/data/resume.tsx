@@ -19,11 +19,13 @@ export const DATA = {
         "TailwindCSS",
         "JavaScript",
         "Typescript",
+        "Golang",
         "React",
         "Next.js",
         "Express.js",
         "Node.js",
         "Kafka",
+        "Temporal",
         "Socket.io",
         "Redis",
         "MongoDB", 
@@ -37,6 +39,7 @@ export const DATA = {
         "Github",
         "Postman",
         "ReduxToolkit",
+        "Turborepo",
         "N8n",
         "Langchain",
         "Vector Databases",
@@ -51,21 +54,21 @@ export const DATA = {
         social: {
             GitHub: {
                 name: "GitHub",
-                url: "https://github.com/yash700701",
+                url: "https://github.com/yashxtw",
                 icon: Icons.github,
 
                 navbar: true,
             },
             LinkedIn: {
                 name: "LinkedIn",
-                url: "https://www.linkedin.com/in/yash-tiwari20/",
+                url: "https://www.linkedin.com/in/yashxtw/",
                 icon: Icons.linkedin,
 
                 navbar: true,
             },
             X: {
                 name: "X",
-                url: "https://x.com/yash_700757",
+                url: "https://x.com/yashxtw",
                 icon: Icons.x,
 
                 navbar: true,

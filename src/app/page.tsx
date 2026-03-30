@@ -184,7 +184,7 @@ export default function Page() {
                     </BlurFade>
                     <BlurFade delay={BLUR_FADE_DELAY * 9}>
                         <GitHubCalendar
-                            username="yash700701"
+                            username="yashxtw"
                             theme={{
                                 light: [
                                     "#ebedf0",
@@ -211,7 +211,7 @@ export default function Page() {
                     <BlurFade delay={BLUR_FADE_DELAY * 9}>
                         <div className="w-full overflow-x-scroll mt-5">
                         <LeetCodeCalendar
-                            username="yash_tiwari700"
+                            username="yashxtw"
                             blockSize={12}
                             blockMargin={3}
                             fontSize={14}
