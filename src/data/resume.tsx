@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
     name: "Yash Tiwari",
     initials: "DV",
-    url: "https://dillion.io",
-    location: "San Francisco, CA",
-    locationLink: "https://www.google.com/maps/place/sanfrancisco",
+    url: "https://yashxtw.vercel.app",
+    location: "Noida, India",
+    locationLink: "https://www.google.com/maps/place/noida",
     resumeUrl: "https://aqua-brandy-94.tiiny.site/",
     aiAssistantUrl: "https://askyash.vercel.app/",
     description:
@@ -75,7 +75,7 @@ export const DATA = {
             },
             email: {
                 name: "Send Email",
-                url: "#",
+                url: "mailto:yashtiwari700714@gmail.com",
                 icon: Icons.email,
 
                 navbar: false,
@@ -137,9 +137,43 @@ export const DATA = {
     ],
     projects: [
         {
+            title: "Verity Ai",
+            href: "https://verityai-frontend.vercel.app/",
+            dates: "6 dec 2025 - Present",
+            active: true,
+            description:
+                "Built VerityAI / ASVP, an AI Search Visibility Platform that helps brands track how they appear across ChatGPT, Gemini, Claude, and Google AI Overviews. Developed a multi-source query execution system to run the same prompt across multiple LLMs and compare visibility, sentiment, prominence, and brand mentions side-by-side. Designed and implemented responsive dashboards for brands, queries, analytics, alerts, recommendations, account management, and usage tracking. Built a recommendation engine that analyzes AI response gaps and generates actionable content and distribution suggestions to improve brand visibility. Implemented secure authentication, team account support, billing, subscription handling, and password reset workflows with cookie-based session management. Added Redis caching, Temporal workflows, and scheduled background jobs for scalable query execution, alert generation, and recommendation processing. Integrated Python NLP/NER pipelines using spaCy to extract competitors, entities, and structured insights from raw LLM responses. ",
+            technologies: [
+                "Next.js",
+                "React", 
+                "TypeScript", 
+                "Node.js", 
+                "Express", 
+                "PostgreSQL", 
+                "Redis", 
+                "Temporal", 
+                "Python", 
+                "spaCy", 
+                "Resend", 
+                "Razorpay", 
+                "Google OAuth", 
+                "Docker",
+                "GCP"
+            ],
+            links: [
+                {
+                    type: "Website",
+                    href: "https://verityai-frontend.vercel.app/",
+                    icon: <Icons.globe className="size-3" />,
+                },
+            ],
+            image: "/verity.png",
+            video: "",
+        },
+        {
             title: "Zuto",
             href: "https://zutogo.com",
-            dates: "1 Oct - Present",
+            dates: "1 Oct - 31 dec 2025",
             active: true,
             description:
                 "Zuto is a scalable bike rental platform built with Node.js, Docker, Redis, and Google Cloud, featuring KYC-based bookings, ride lifecycle management, geo-based search, and wallet payments. It includes a robust backend architecture with Redis locks and queues for reliability and an admin dashboard for real-time monitoring of users, bikes, and transactions.",
