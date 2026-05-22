@@ -7,7 +7,7 @@ export const DATA = {
     url: "https://yashxtw.vercel.app",
     location: "Noida, India",
     locationLink: "https://www.google.com/maps/place/noida",
-    resumeUrl: "https://aqua-brandy-94.tiiny.site/",
+    resumeUrl: "https://drive.google.com/file/d/1BJ_wLsBHwTbKu62TMnhp2fifhAQlFw-h/view?usp=sharing",
     aiAssistantUrl: "https://askyash.vercel.app/",
     description:
         "Software Engineer who loves building products from scratch. Active on Twitter and passionate about creating impactful solutions.",
