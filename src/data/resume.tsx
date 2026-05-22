@@ -138,7 +138,7 @@ export const DATA = {
     projects: [
         {
             title: "Verity Ai",
-            href: "https://verityai-frontend.vercel.app/",
+            href: "https://verityai.live/",
             dates: "6 dec 2025 - Present",
             active: true,
             description:
