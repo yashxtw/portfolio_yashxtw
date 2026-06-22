@@ -163,7 +163,7 @@ export const DATA = {
             links: [
                 {
                     type: "Website",
-                    href: "https://verityai-frontend.vercel.app/",
+                    href: "https://verityai.live/",
                     icon: <Icons.globe className="size-3" />,
                 },
             ],
