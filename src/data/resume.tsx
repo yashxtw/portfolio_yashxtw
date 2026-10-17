@@ -7,7 +7,7 @@ export const DATA = {
     url: "https://yashxtw.vercel.app",
     location: "Noida, India",
     locationLink: "https://www.google.com/maps/place/noida",
-    resumeUrl: "https://drive.google.com/file/d/1dw1WkeSohQ04lS94yJ4OLLxRpxuoFHrj/view?usp=sharing",
+    resumeUrl: "https://drive.google.com/file/d/1GkXx1mclZ1tsztJM2nZxp8vatBxcsUOX/view?usp=sharing",
     aiAssistantUrl: "https://askyash.vercel.app/",
     description:
         "Software Engineer who loves building products from scratch. Active on Twitter and passionate about creating impactful solutions.",
@@ -28,6 +28,9 @@ export const DATA = {
         "Temporal",
         "Socket.io",
         "Redis",
+        "FastAPI",
+        "WebSockets",
+        "CI/CD",
         "Jest",
         "Nginx",
         "GitHub Actions",
